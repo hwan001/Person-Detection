@@ -1,9 +1,9 @@
 # Person-Detection
 
 ## Member
-Lee Han Bin <hr>
-Lim Seung Hyun(limseunghyun95@gmail.com) <hr>
-Heo Jae Hwan <hr>
+Lee Han Bin <br>
+Lim Seung Hyun(limseunghyun95@gmail.com) <br>
+Heo Jae Hwan <br>
 
 
 ## Reference
